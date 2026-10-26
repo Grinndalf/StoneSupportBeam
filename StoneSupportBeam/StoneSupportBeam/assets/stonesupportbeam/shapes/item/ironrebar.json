@@ -1,0 +1,32 @@
+{
+	"editor": {
+		"backDropShape": "",
+		"collapsedPaths": "",
+		"allAngles": false,
+		"entityTextureMode": false,
+		"singleTexture": false,
+		"vsFormatConverted": false
+	},
+	"textureWidth": 16,
+	"textureHeight": 16,
+	"textures": {
+		"metal": ""
+	},
+	"elements": [
+		{
+			"name": "rebar",
+			"from": [7.25, 0, 1],
+			"to": [8.75, 1.5, 15],
+			"rotationOrigin": [8, -0.25, 8],
+			"faces": {
+				"north": {"texture": "#metal", "uv": [10, 8.5, 11.5, 10], "autoUv": false, "snapUv": false},
+				"east": {"texture": "#metal", "uv": [0, 2.5, 14, 4], "autoUv": false, "snapUv": false},
+				"south": {"texture": "#metal", "uv": [11.5, 8.5, 13, 10], "autoUv": false, "snapUv": false},
+				"west": {"texture": "#metal", "uv": [0, 5.5, 14, 7], "autoUv": false, "snapUv": false},
+				"up": {"texture": "#metal", "uv": [0, 4, 14, 5.5], "rotation": 90, "autoUv": false, "snapUv": false},
+				"down": {"texture": "#metal", "uv": [0, 7, 14, 8.5], "rotation": 270, "autoUv": false, "snapUv": false}
+			}
+		}
+	],
+	"animations": []
+}

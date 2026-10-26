@@ -1,0 +1,9 @@
+{
+	code: "stonebeam-concretemix-other",
+	sealHours: 48,
+	ingredients: [
+		{ type: "item", code: "cementmix-limestoneportion", litres: 1 },
+		{ type: "item", code: "stonesupportbeam:crushedstone-*", quantity: 1, name: "type", allowedVariants: ["whitemarble", "redmarble", "greenmarble", "halite", "kimberlite", "obsidian"] }
+	],
+	output: { type: "item", code: "stonebeam-concretemix-{type}", stackSize: 1 }
+}

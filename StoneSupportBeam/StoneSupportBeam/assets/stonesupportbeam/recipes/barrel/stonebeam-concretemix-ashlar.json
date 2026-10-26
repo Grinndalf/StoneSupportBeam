@@ -1,0 +1,9 @@
+{
+	code: "stonebeam-concretemix-ashlar",
+	sealHours: 48,
+	ingredients: [
+		{ type: "item", code: "cementmix-*portion", litres: 1, name: "type", allowedVariants: ["granite", "limestone", "shale", "andesite", "basalt", "peridotite", "sandstone", "conglomerate", "chert", "phyllite", "slate", "chalk", "claystone", "bauxite"] },
+		{ type: "item", code: "stonesupportbeam:crushedbrick-*", quantity: 1, name: "type", allowedVariants: ["granite", "limestone", "shale", "andesite", "basalt", "peridotite", "sandstone", "conglomerate", "chert", "phyllite", "slate", "chalk", "claystone", "bauxite"] }
+	],
+	output: { type: "item", code: "stonebeam-concretemix-{type}-ashlar", stackSize: 1 }
+}

@@ -1,0 +1,13 @@
+{
+	ingredient: { type: "item", code: "game:ingot-*", name: "metal", allowedVariants: ["iron"] },
+	pattern: [[
+		"##############",
+		"##############",
+	],[
+		"#######_______",
+		"_______#######",
+	]],
+	name: "rebar",
+	code: "rebar-iron",
+	output: { type: "item", code: "rebar-iron", quantity: 2 }
+}

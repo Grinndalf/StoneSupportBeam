@@ -1,0 +1,74 @@
+{
+	code: "stonebeam-concretemix",
+	variantgroups: [
+		{
+			code: "type",
+			states: [
+				"granite",
+				"limestone",
+				"shale",
+				"andesite",
+				"basalt",
+				"peridotite",
+				"sandstone",
+				"conglomerate",
+				"chert",
+				"phyllite",
+				"slate",
+				"whitemarble",
+				"redmarble",
+				"greenmarble",
+				"halite",
+				"chalk",
+				"claystone",
+				"bauxite",
+				"kimberlite",
+				"obsidian",
+				"granite-ashlar",
+				"limestone-ashlar",
+				"shale-ashlar",
+				"andesite-ashlar",
+				"basalt-ashlar",
+				"peridotite-ashlar",
+				"sandstone-ashlar",
+				"conglomerate-ashlar",
+				"chert-ashlar",
+				"phyllite-ashlar",
+				"slate-ashlar",
+				"chalk-ashlar",
+				"claystone-ashlar",
+				"bauxite-ashlar"
+			]
+		}
+	],
+	behaviors: [
+		{ name: "GroundStorable", properties: { layout: 'Messy12', collisionBox: { x1: 0, y1: 0, z1: 0, x2: 1, y2: 0.125, z2: 1 } } }
+	],
+	attributes: {
+		inContainerTexture: { base: "stonesupportbeam:block/wood/barrel/concretemix-{type}" },
+	},
+	shape: { base: "game:item/resource/mortar" },
+	textures: {
+		mortar: { base: "stonesupportbeam:block/wood/barrel/concretemix-{type}" }
+	},
+	creativeinventory: { "general": ["*"], "stonesupportbeam": ["*"] },
+	heldTpIdleAnimation: "holdbothhands",
+	maxstacksize: 64,
+	materialDensity: 500,
+	guiTransform: {
+		translation: { x: 0, y: 0, z: 0 },
+		rotation: { x: 142, y: 9, z: 1 },
+		origin: { x: 0.4, y: 0.1, z: 0.5 },
+		scale: 2
+	},
+	tpHandTransform: {
+		translation: { x: -1.9, y: -1.6, z: -1.2 },
+		rotation: { x: -25, y: 15, z: -92 }
+	},
+	groundTransform: {
+		translation: { x: 0, y: 0.17, z: 0 },
+		rotation: { x: -1, y: 0, z: 0 },
+		origin: { x: 0.5, y: 0.5, z: 0.5299 },
+		scale: 1.65
+	}
+}

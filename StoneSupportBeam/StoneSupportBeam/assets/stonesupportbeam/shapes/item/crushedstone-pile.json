@@ -1,0 +1,2139 @@
+{
+	"editor": {
+		"allAngles": false,
+		"singleTexture": false
+	},
+	"textureWidth": 16,
+	"textureHeight": 16,
+	"textureSizes": {
+		"material": [16, 16]
+	},
+	"textures": {
+		"material": "block/stone/rock/granite1"
+	},
+	"elements": [
+		{
+			"name": "CrushedStone1",
+			"from": [8.05, 0.65, 9.25],
+			"to": [8.05, 0.65, 9.25],
+			"rotationOrigin": [8.05, 0.65, 9.25],
+			"children": [
+				{
+					"name": "Crushedstone",
+					"from": [-0.675, -0.575, -0.675],
+					"to": [0.675, 0.775, 0.675],
+					"rotationOrigin": [0, 0, 0],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": -7.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [0.925, -0.475, -0.675],
+					"to": [2.075, 0.675, 0.475],
+					"rotationOrigin": [1.5, 0, -0.1],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 2.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-2.125, -0.425, -0.925],
+					"to": [-1.075, 0.625, 0.125],
+					"rotationOrigin": [-1.6, 0, -0.4],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationX": -10,
+					"rotationY": 17.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [1.075, -0.425, -2.025],
+					"to": [2.125, 0.625, -0.975],
+					"rotationOrigin": [1.6, 0, -1.5],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationX": -10,
+					"rotationY": -15.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-0.15436, -0.35, -2.1999],
+					"to": [0.74564, 0.55, -1.2999],
+					"rotationOrigin": [0.29564, 0, -1.7499],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationX": 13,
+					"rotationY": 2.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [0.4519, -0.32389, -1.19135],
+					"to": [0.9519, 0.17611, -0.69135],
+					"rotationOrigin": [0.7019, -0.07389, -0.94135],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 57.5,
+					"rotationZ": 82.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-0.91476, -0.3, -2.32827],
+					"to": [-0.11476, 0.5, -1.52827],
+					"rotationOrigin": [-0.35, -0.05, -2.35],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 170
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-1.04049, -0.25, -2.94739],
+					"to": [-0.34049, 0.45, -2.24739],
+					"rotationOrigin": [-0.65, -0.05, -2.15],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 151.5,
+					"rotationZ": 82.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [1.48194, -0.15, -2.96888],
+					"to": [1.98194, 0.35, -2.46888],
+					"rotationOrigin": [1.73194, -0.21519, -2.71888],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 124.5,
+					"rotationZ": 92.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [0.9023, -0.25, -3.08966],
+					"to": [1.6023, 0.45, -2.38966],
+					"rotationOrigin": [1.2523, -0.1, -2.73966],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 8.5,
+					"rotationZ": 82.5
+				}
+			]
+		},
+		{
+			"name": "CrushedStone2",
+			"from": [3.74151, 0.57593, 7.28708],
+			"to": [3.74151, 0.57593, 7.28708],
+			"rotationOrigin": [3.74151, 0.57593, 7.28708],
+			"rotationY": 69,
+			"children": [
+				{
+					"name": "Crushedstone",
+					"from": [-0.66651, -0.50093, 0.68792],
+					"to": [0.68349, 0.84907, 2.03792],
+					"rotationOrigin": [0.00849, 0.07407, 1.36292],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": -7.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [0.93349, -0.40093, 0.68792],
+					"to": [2.08349, 0.74907, 1.83792],
+					"rotationOrigin": [1.50849, 0.07407, 1.26292],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 2.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-2.11651, -0.35093, 0.43792],
+					"to": [-1.06651, 0.69907, 1.48792],
+					"rotationOrigin": [-1.59151, 0.07407, 0.96292],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationX": -10,
+					"rotationY": 17.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [1.08349, -0.35093, -0.66208],
+					"to": [2.13349, 0.69907, 0.38792],
+					"rotationOrigin": [1.60849, 0.07407, -0.13708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationX": -10,
+					"rotationY": -15.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-0.14587, -0.27593, -0.83699],
+					"to": [0.75413, 0.62407, 0.06301],
+					"rotationOrigin": [0.30413, 0.07407, -0.38699],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationX": 13,
+					"rotationY": 2.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-2.04151, -0.22593, -0.93708],
+					"to": [-1.24151, 0.57407, -0.13708],
+					"rotationOrigin": [-1.64151, 0.07407, -0.53708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 15
+				},
+				{
+					"name": "Crushedstone",
+					"from": [0.46039, -0.24982, 0.17157],
+					"to": [0.96039, 0.25018, 0.67157],
+					"rotationOrigin": [0.71039, 0.00018, 0.42157],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 57.5,
+					"rotationZ": 82.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-0.90627, -0.22593, -0.96536],
+					"to": [-0.10627, 0.57407, -0.16536],
+					"rotationOrigin": [-0.34151, 0.02407, -0.98708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 170
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-1.032, -0.17593, -1.58447],
+					"to": [-0.332, 0.52407, -0.88447],
+					"rotationOrigin": [-0.64151, 0.02407, -0.78708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 151.5,
+					"rotationZ": 82.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [0.9108, -0.17593, -1.72674],
+					"to": [1.6108, 0.52407, -1.02674],
+					"rotationOrigin": [1.2608, -0.02593, -1.37674],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 8.5,
+					"rotationZ": 82.5
+				}
+			]
+		},
+		{
+			"name": "CrushedStone3",
+			"from": [5.74151, 0.57593, 11.68708],
+			"to": [5.74151, 0.57593, 11.68708],
+			"rotationOrigin": [5.74151, 0.57593, 11.68708],
+			"rotationX": -180,
+			"rotationY": 28,
+			"children": [
+				{
+					"name": "Crushedstone",
+					"from": [-0.66651, -0.50093, 0.68792],
+					"to": [0.68349, 0.84907, 2.03792],
+					"rotationOrigin": [0.00849, 0.07407, 1.36292],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": -7.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [0.93349, -0.40093, 0.68792],
+					"to": [2.08349, 0.74907, 1.83792],
+					"rotationOrigin": [1.50849, 0.07407, 1.26292],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 2.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-2.11651, -0.35093, 0.43792],
+					"to": [-1.06651, 0.69907, 1.48792],
+					"rotationOrigin": [-1.59151, 0.07407, 0.96292],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationX": -10,
+					"rotationY": 17.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [1.08349, -0.35093, -0.66208],
+					"to": [2.13349, 0.69907, 0.38792],
+					"rotationOrigin": [1.60849, 0.07407, -0.13708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationX": -10,
+					"rotationY": -15.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-0.14587, -0.27593, -0.83699],
+					"to": [0.75413, 0.62407, 0.06301],
+					"rotationOrigin": [0.30413, 0.07407, -0.38699],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationX": 13,
+					"rotationY": 2.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-2.04151, -0.22593, -0.93708],
+					"to": [-1.24151, 0.57407, -0.13708],
+					"rotationOrigin": [-1.64151, 0.07407, -0.53708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 15
+				},
+				{
+					"name": "Crushedstone",
+					"from": [0.46039, -0.24982, 0.17157],
+					"to": [0.96039, 0.25018, 0.67157],
+					"rotationOrigin": [0.71039, 0.00018, 0.42157],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 57.5,
+					"rotationZ": 82.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-0.90627, -0.22593, -0.96536],
+					"to": [-0.10627, 0.57407, -0.16536],
+					"rotationOrigin": [-0.34151, 0.02407, -0.98708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 170
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-1.032, -0.17593, -1.58447],
+					"to": [-0.332, 0.52407, -0.88447],
+					"rotationOrigin": [-0.64151, 0.02407, -0.78708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 151.5,
+					"rotationZ": 82.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [1.49043, -0.07593, -1.60596],
+					"to": [1.99043, 0.42407, -1.10596],
+					"rotationOrigin": [1.74043, -0.14112, -1.35596],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 124.5,
+					"rotationZ": 92.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [0.9108, -0.17593, -1.72674],
+					"to": [1.6108, 0.52407, -1.02674],
+					"rotationOrigin": [1.2608, -0.02593, -1.37674],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 8.5,
+					"rotationZ": 82.5
+				}
+			]
+		},
+		{
+			"name": "CrushedStone4",
+			"from": [7.34151, 0.57593, 3.68708],
+			"to": [7.34151, 0.57593, 3.68708],
+			"rotationOrigin": [7.34151, 0.57593, 3.68708],
+			"rotationX": -180,
+			"rotationY": 95.5,
+			"children": [
+				{
+					"name": "Crushedstone",
+					"from": [-0.66651, -0.50093, 0.68792],
+					"to": [0.68349, 0.84907, 2.03792],
+					"rotationOrigin": [0.00849, 0.07407, 1.36292],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": -7.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [0.93349, -0.40093, 0.68792],
+					"to": [2.08349, 0.74907, 1.83792],
+					"rotationOrigin": [1.50849, 0.07407, 1.26292],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 2.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-2.11651, -0.35093, 0.43792],
+					"to": [-1.06651, 0.69907, 1.48792],
+					"rotationOrigin": [-1.59151, 0.07407, 0.96292],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationX": -10,
+					"rotationY": 17.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [1.08349, -0.35093, -0.66208],
+					"to": [2.13349, 0.69907, 0.38792],
+					"rotationOrigin": [1.60849, 0.07407, -0.13708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationX": -10,
+					"rotationY": -15.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-0.14587, -0.27593, -0.83699],
+					"to": [0.75413, 0.62407, 0.06301],
+					"rotationOrigin": [0.30413, 0.07407, -0.38699],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationX": 13,
+					"rotationY": 2.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-2.04151, -0.22593, -0.93708],
+					"to": [-1.24151, 0.57407, -0.13708],
+					"rotationOrigin": [-1.64151, 0.07407, -0.53708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 15
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-0.90627, -0.22593, -0.96536],
+					"to": [-0.10627, 0.57407, -0.16536],
+					"rotationOrigin": [-0.34151, 0.02407, -0.98708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 170
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-1.032, -0.17593, -1.58447],
+					"to": [-0.332, 0.52407, -0.88447],
+					"rotationOrigin": [-0.64151, 0.02407, -0.78708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 151.5,
+					"rotationZ": 82.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [1.49043, -0.07593, -1.60596],
+					"to": [1.99043, 0.42407, -1.10596],
+					"rotationOrigin": [1.74043, -0.14112, -1.35596],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 124.5,
+					"rotationZ": 92.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [0.9108, -0.17593, -1.72674],
+					"to": [1.6108, 0.52407, -1.02674],
+					"rotationOrigin": [1.2608, -0.02593, -1.37674],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 8.5,
+					"rotationZ": 82.5
+				}
+			]
+		},
+		{
+			"name": "CrushedStone5",
+			"from": [10.44151, 0.57593, 12.58708],
+			"to": [10.44151, 0.57593, 12.58708],
+			"rotationOrigin": [10.44151, 0.57593, 12.58708],
+			"rotationX": -180,
+			"rotationY": -146.5,
+			"children": [
+				{
+					"name": "Crushedstone",
+					"from": [-0.66651, -0.50093, 0.68792],
+					"to": [0.68349, 0.84907, 2.03792],
+					"rotationOrigin": [0.00849, 0.07407, 1.36292],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": -7.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [0.93349, -0.40093, 0.68792],
+					"to": [2.08349, 0.74907, 1.83792],
+					"rotationOrigin": [1.50849, 0.07407, 1.26292],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 2.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-2.11651, -0.35093, 0.43792],
+					"to": [-1.06651, 0.69907, 1.48792],
+					"rotationOrigin": [-1.59151, 0.07407, 0.96292],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationX": -10,
+					"rotationY": 17.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [1.08349, -0.35093, -0.66208],
+					"to": [2.13349, 0.69907, 0.38792],
+					"rotationOrigin": [1.60849, 0.07407, -0.13708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationX": -10,
+					"rotationY": -15.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-0.14587, -0.27593, -0.83699],
+					"to": [0.75413, 0.62407, 0.06301],
+					"rotationOrigin": [0.30413, 0.07407, -0.38699],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationX": 13,
+					"rotationY": 2.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [0.46039, -0.24982, 0.17157],
+					"to": [0.96039, 0.25018, 0.67157],
+					"rotationOrigin": [0.71039, 0.00018, 0.42157],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 57.5,
+					"rotationZ": 82.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-1.64151, -0.07593, -1.68708],
+					"to": [-1.14151, 0.42407, -1.18708],
+					"rotationOrigin": [-1.39151, -0.02593, -1.43708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 2.5,
+					"rotationZ": 82.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-0.90627, -0.22593, -0.96536],
+					"to": [-0.10627, 0.57407, -0.16536],
+					"rotationOrigin": [-0.34151, 0.02407, -0.98708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 170
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-1.032, -0.17593, -1.58447],
+					"to": [-0.332, 0.52407, -0.88447],
+					"rotationOrigin": [-0.64151, 0.02407, -0.78708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 151.5,
+					"rotationZ": 82.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [1.49043, -0.07593, -1.60596],
+					"to": [1.99043, 0.42407, -1.10596],
+					"rotationOrigin": [1.74043, -0.14112, -1.35596],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 124.5,
+					"rotationZ": 92.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [0.9108, -0.17593, -1.72674],
+					"to": [1.6108, 0.52407, -1.02674],
+					"rotationOrigin": [1.2608, -0.02593, -1.37674],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 8.5,
+					"rotationZ": 82.5
+				}
+			]
+		},
+		{
+			"name": "CrushedStone6",
+			"from": [3.34151, 0.57593, 2.48708],
+			"to": [3.34151, 0.57593, 2.48708],
+			"rotationOrigin": [3.34151, 0.57593, 2.48708],
+			"rotationX": -180,
+			"rotationY": -166.5,
+			"children": [
+				{
+					"name": "Crushedstone",
+					"from": [-0.66651, -0.50093, 0.68792],
+					"to": [0.68349, 0.84907, 2.03792],
+					"rotationOrigin": [0.00849, 0.07407, 1.36292],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": -7.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [0.93349, -0.40093, 0.68792],
+					"to": [2.08349, 0.74907, 1.83792],
+					"rotationOrigin": [1.50849, 0.07407, 1.26292],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 2.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-2.11651, -0.35093, 0.43792],
+					"to": [-1.06651, 0.69907, 1.48792],
+					"rotationOrigin": [-1.59151, 0.07407, 0.96292],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationX": -10,
+					"rotationY": 17.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [1.08349, -0.35093, -0.66208],
+					"to": [2.13349, 0.69907, 0.38792],
+					"rotationOrigin": [1.60849, 0.07407, -0.13708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationX": -10,
+					"rotationY": -15.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-0.14587, -0.27593, -0.83699],
+					"to": [0.75413, 0.62407, 0.06301],
+					"rotationOrigin": [0.30413, 0.07407, -0.38699],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationX": 13,
+					"rotationY": 2.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-2.04151, -0.22593, -0.93708],
+					"to": [-1.24151, 0.57407, -0.13708],
+					"rotationOrigin": [-1.64151, 0.07407, -0.53708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 15
+				},
+				{
+					"name": "Crushedstone",
+					"from": [0.46039, -0.24982, 0.17157],
+					"to": [0.96039, 0.25018, 0.67157],
+					"rotationOrigin": [0.71039, 0.00018, 0.42157],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 57.5,
+					"rotationZ": 82.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-0.90627, -0.22593, -0.96536],
+					"to": [-0.10627, 0.57407, -0.16536],
+					"rotationOrigin": [-0.34151, 0.02407, -0.98708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 170
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-1.032, -0.17593, -1.58447],
+					"to": [-0.332, 0.52407, -0.88447],
+					"rotationOrigin": [-0.64151, 0.02407, -0.78708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 151.5,
+					"rotationZ": 82.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [1.49043, -0.07593, -1.60596],
+					"to": [1.99043, 0.42407, -1.10596],
+					"rotationOrigin": [1.74043, -0.14112, -1.35596],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 124.5,
+					"rotationZ": 92.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [0.9108, -0.17593, -1.72674],
+					"to": [1.6108, 0.52407, -1.02674],
+					"rotationOrigin": [1.2608, -0.02593, -1.37674],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 8.5,
+					"rotationZ": 82.5
+				}
+			]
+		},
+		{
+			"name": "CrushedStone7",
+			"from": [12.04151, 0.57593, 5.08708],
+			"to": [12.04151, 0.57593, 5.08708],
+			"rotationOrigin": [12.04151, 0.57593, 5.08708],
+			"rotationX": -180,
+			"rotationY": -150.5,
+			"children": [
+				{
+					"name": "Crushedstone",
+					"from": [-0.66651, -0.50093, 0.68792],
+					"to": [0.68349, 0.84907, 2.03792],
+					"rotationOrigin": [0.00849, 0.07407, 1.36292],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": -7.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [0.93349, -0.40093, 0.68792],
+					"to": [2.08349, 0.74907, 1.83792],
+					"rotationOrigin": [1.50849, 0.07407, 1.26292],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 2.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-2.11651, -0.35093, 0.43792],
+					"to": [-1.06651, 0.69907, 1.48792],
+					"rotationOrigin": [-1.59151, 0.07407, 0.96292],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationX": -10,
+					"rotationY": 17.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [1.08349, -0.35093, -0.66208],
+					"to": [2.13349, 0.69907, 0.38792],
+					"rotationOrigin": [1.60849, 0.07407, -0.13708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationX": -10,
+					"rotationY": -15.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-0.14587, -0.27593, -0.83699],
+					"to": [0.75413, 0.62407, 0.06301],
+					"rotationOrigin": [0.30413, 0.07407, -0.38699],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationX": 13,
+					"rotationY": 2.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-2.04151, -0.22593, -0.93708],
+					"to": [-1.24151, 0.57407, -0.13708],
+					"rotationOrigin": [-1.64151, 0.07407, -0.53708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 15
+				},
+				{
+					"name": "Crushedstone",
+					"from": [0.46039, -0.24982, 0.17157],
+					"to": [0.96039, 0.25018, 0.67157],
+					"rotationOrigin": [0.71039, 0.00018, 0.42157],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 57.5,
+					"rotationZ": 82.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-1.64151, -0.07593, -1.68708],
+					"to": [-1.14151, 0.42407, -1.18708],
+					"rotationOrigin": [-1.39151, -0.02593, -1.43708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 2.5,
+					"rotationZ": 82.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-0.90627, -0.22593, -0.96536],
+					"to": [-0.10627, 0.57407, -0.16536],
+					"rotationOrigin": [-0.34151, 0.02407, -0.98708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 170
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-1.032, -0.17593, -1.58447],
+					"to": [-0.332, 0.52407, -0.88447],
+					"rotationOrigin": [-0.64151, 0.02407, -0.78708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 151.5,
+					"rotationZ": 82.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [0.9108, -0.17593, -1.72674],
+					"to": [1.6108, 0.52407, -1.02674],
+					"rotationOrigin": [1.2608, -0.02593, -1.37674],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 8.5,
+					"rotationZ": 82.5
+				}
+			]
+		},
+		{
+			"name": "CrushedStone8",
+			"from": [12.44151, 0.57593, 8.88708],
+			"to": [12.44151, 0.57593, 8.88708],
+			"rotationOrigin": [12.44151, 0.57593, 8.88708],
+			"rotationX": -180,
+			"rotationY": -95.5,
+			"children": [
+				{
+					"name": "Crushedstone",
+					"from": [-0.66651, -0.50093, 0.68792],
+					"to": [0.68349, 0.84907, 2.03792],
+					"rotationOrigin": [0.00849, 0.07407, 1.36292],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": -7.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [0.93349, -0.40093, 0.68792],
+					"to": [2.08349, 0.74907, 1.83792],
+					"rotationOrigin": [1.50849, 0.07407, 1.26292],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 2.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-2.11651, -0.35093, 0.43792],
+					"to": [-1.06651, 0.69907, 1.48792],
+					"rotationOrigin": [-1.59151, 0.07407, 0.96292],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationX": -10,
+					"rotationY": 17.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [1.08349, -0.35093, -0.66208],
+					"to": [2.13349, 0.69907, 0.38792],
+					"rotationOrigin": [1.60849, 0.07407, -0.13708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationX": -10,
+					"rotationY": -15.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-0.14587, -0.27593, -0.83699],
+					"to": [0.75413, 0.62407, 0.06301],
+					"rotationOrigin": [0.30413, 0.07407, -0.38699],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationX": 13,
+					"rotationY": 2.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-2.04151, -0.22593, -0.93708],
+					"to": [-1.24151, 0.57407, -0.13708],
+					"rotationOrigin": [-1.64151, 0.07407, -0.53708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 15
+				},
+				{
+					"name": "Crushedstone",
+					"from": [0.46039, -0.24982, 0.17157],
+					"to": [0.96039, 0.25018, 0.67157],
+					"rotationOrigin": [0.71039, 0.00018, 0.42157],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 57.5,
+					"rotationZ": 82.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-0.90627, -0.22593, -0.96536],
+					"to": [-0.10627, 0.57407, -0.16536],
+					"rotationOrigin": [-0.34151, 0.02407, -0.98708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 170
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-1.032, -0.17593, -1.58447],
+					"to": [-0.332, 0.52407, -0.88447],
+					"rotationOrigin": [-0.64151, 0.02407, -0.78708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 151.5,
+					"rotationZ": 82.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [0.9108, -0.17593, -1.72674],
+					"to": [1.6108, 0.52407, -1.02674],
+					"rotationOrigin": [1.2608, -0.02593, -1.37674],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 8.5,
+					"rotationZ": 82.5
+				}
+			]
+		},
+		{
+			"name": "CrushedStone9",
+			"from": [2.34151, 0.57593, 11.58708],
+			"to": [2.34151, 0.57593, 11.58708],
+			"rotationOrigin": [2.34151, 0.57593, 11.58708],
+			"rotationX": -180,
+			"rotationY": -95.5,
+			"children": [
+				{
+					"name": "Crushedstone",
+					"from": [-0.66651, -0.50093, 0.68792],
+					"to": [0.68349, 0.84907, 2.03792],
+					"rotationOrigin": [0.00849, 0.07407, 1.36292],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": -7.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [0.93349, -0.40093, 0.68792],
+					"to": [2.08349, 0.74907, 1.83792],
+					"rotationOrigin": [1.50849, 0.07407, 1.26292],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 2.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-2.11651, -0.35093, 0.43792],
+					"to": [-1.06651, 0.69907, 1.48792],
+					"rotationOrigin": [-1.59151, 0.07407, 0.96292],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationX": -10,
+					"rotationY": 17.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [1.08349, -0.35093, -0.66208],
+					"to": [2.13349, 0.69907, 0.38792],
+					"rotationOrigin": [1.60849, 0.07407, -0.13708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationX": -10,
+					"rotationY": -15.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-0.14587, -0.27593, -0.83699],
+					"to": [0.75413, 0.62407, 0.06301],
+					"rotationOrigin": [0.30413, 0.07407, -0.38699],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationX": 13,
+					"rotationY": 2.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-2.04151, -0.22593, -0.93708],
+					"to": [-1.24151, 0.57407, -0.13708],
+					"rotationOrigin": [-1.64151, 0.07407, -0.53708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 15
+				},
+				{
+					"name": "Crushedstone",
+					"from": [0.46039, -0.24982, 0.17157],
+					"to": [0.96039, 0.25018, 0.67157],
+					"rotationOrigin": [0.71039, 0.00018, 0.42157],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 57.5,
+					"rotationZ": 82.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-1.64151, -0.07593, -1.68708],
+					"to": [-1.14151, 0.42407, -1.18708],
+					"rotationOrigin": [-1.39151, -0.02593, -1.43708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 2.5,
+					"rotationZ": 82.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-0.90627, -0.22593, -0.96536],
+					"to": [-0.10627, 0.57407, -0.16536],
+					"rotationOrigin": [-0.34151, 0.02407, -0.98708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 170
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-1.032, -0.17593, -1.58447],
+					"to": [-0.332, 0.52407, -0.88447],
+					"rotationOrigin": [-0.64151, 0.02407, -0.78708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 151.5,
+					"rotationZ": 82.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [1.49043, -0.07593, -1.60596],
+					"to": [1.99043, 0.42407, -1.10596],
+					"rotationOrigin": [1.74043, -0.14112, -1.35596],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 124.5,
+					"rotationZ": 92.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [0.9108, -0.17593, -1.72674],
+					"to": [1.6108, 0.52407, -1.02674],
+					"rotationOrigin": [1.2608, -0.02593, -1.37674],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 8.5,
+					"rotationZ": 82.5
+				}
+			]
+		},
+		{
+			"name": "CrushedStone10",
+			"from": [2.34151, 0.57593, 11.58708],
+			"to": [2.34151, 0.57593, 11.58708],
+			"rotationOrigin": [2.34151, 0.57593, 11.58708],
+			"rotationX": -180,
+			"rotationY": -95.5,
+			"children": [
+				{
+					"name": "Crushedstone",
+					"from": [-0.66651, -0.50093, 0.68792],
+					"to": [0.68349, 0.84907, 2.03792],
+					"rotationOrigin": [0.00849, 0.07407, 1.36292],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": -7.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [0.93349, -0.40093, 0.68792],
+					"to": [2.08349, 0.74907, 1.83792],
+					"rotationOrigin": [1.50849, 0.07407, 1.26292],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 2.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-2.11651, -0.35093, 0.43792],
+					"to": [-1.06651, 0.69907, 1.48792],
+					"rotationOrigin": [-1.59151, 0.07407, 0.96292],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationX": -10,
+					"rotationY": 17.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [1.08349, -0.35093, -0.66208],
+					"to": [2.13349, 0.69907, 0.38792],
+					"rotationOrigin": [1.60849, 0.07407, -0.13708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationX": -10,
+					"rotationY": -15.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-0.14587, -0.27593, -0.83699],
+					"to": [0.75413, 0.62407, 0.06301],
+					"rotationOrigin": [0.30413, 0.07407, -0.38699],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationX": 13,
+					"rotationY": 2.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-2.04151, -0.22593, -0.93708],
+					"to": [-1.24151, 0.57407, -0.13708],
+					"rotationOrigin": [-1.64151, 0.07407, -0.53708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 15
+				},
+				{
+					"name": "Crushedstone",
+					"from": [0.46039, -0.24982, 0.17157],
+					"to": [0.96039, 0.25018, 0.67157],
+					"rotationOrigin": [0.71039, 0.00018, 0.42157],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 57.5,
+					"rotationZ": 82.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-1.64151, -0.07593, -1.68708],
+					"to": [-1.14151, 0.42407, -1.18708],
+					"rotationOrigin": [-1.39151, -0.02593, -1.43708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 2.5,
+					"rotationZ": 82.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-0.90627, -0.22593, -0.96536],
+					"to": [-0.10627, 0.57407, -0.16536],
+					"rotationOrigin": [-0.34151, 0.02407, -0.98708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 170
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-1.032, -0.17593, -1.58447],
+					"to": [-0.332, 0.52407, -0.88447],
+					"rotationOrigin": [-0.64151, 0.02407, -0.78708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 151.5,
+					"rotationZ": 82.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [0.45849, -0.17593, 1.81292],
+					"to": [0.75849, 0.12407, 2.11292],
+					"rotationOrigin": [0.60849, -0.22593, 1.96292],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationX": 67.5,
+					"rotationY": 145,
+					"rotationZ": 82.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-1.04151, -0.27593, 1.51292],
+					"to": [-0.74151, 0.02407, 1.81292],
+					"rotationOrigin": [-0.89151, -0.32593, 1.66292],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 2.5,
+					"rotationZ": 82.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [1.49043, -0.07593, -1.60596],
+					"to": [1.99043, 0.42407, -1.10596],
+					"rotationOrigin": [1.74043, -0.14112, -1.35596],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 124.5,
+					"rotationZ": 92.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [0.9108, -0.17593, -1.72674],
+					"to": [1.6108, 0.52407, -1.02674],
+					"rotationOrigin": [1.2608, -0.02593, -1.37674],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 8.5,
+					"rotationZ": 82.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [0.94275, 0.02407, -0.994],
+					"to": [1.24275, 0.32407, -0.694],
+					"rotationOrigin": [1.09275, -0.12593, -0.844],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 67.5,
+					"rotationZ": 82.5
+				}
+			]
+		},
+		{
+			"name": "CrushedStone11",
+			"from": [13.74151, 0.57593, 13.38708],
+			"to": [13.74151, 0.57593, 13.38708],
+			"rotationOrigin": [13.74151, 0.57593, 13.38708],
+			"rotationX": -180,
+			"rotationY": 106.5,
+			"children": [
+				{
+					"name": "Crushedstone",
+					"from": [-2.11651, -0.35093, 0.43792],
+					"to": [-1.06651, 0.69907, 1.48792],
+					"rotationOrigin": [-1.59151, 0.07407, 0.96292],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationX": -10,
+					"rotationY": 17.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [1.08349, -0.35093, -0.66208],
+					"to": [2.13349, 0.69907, 0.38792],
+					"rotationOrigin": [1.60849, 0.07407, -0.13708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationX": -10,
+					"rotationY": -15.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-0.14587, -0.27593, -0.83699],
+					"to": [0.75413, 0.62407, 0.06301],
+					"rotationOrigin": [0.30413, 0.07407, -0.38699],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationX": 13,
+					"rotationY": 2.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-2.04151, -0.22593, -0.93708],
+					"to": [-1.24151, 0.57407, -0.13708],
+					"rotationOrigin": [-1.64151, 0.07407, -0.53708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 15
+				},
+				{
+					"name": "Crushedstone",
+					"from": [0.46039, -0.24982, 0.17157],
+					"to": [0.96039, 0.25018, 0.67157],
+					"rotationOrigin": [0.71039, 0.00018, 0.42157],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 57.5,
+					"rotationZ": 82.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-0.90627, -0.22593, -0.96536],
+					"to": [-0.10627, 0.57407, -0.16536],
+					"rotationOrigin": [-0.34151, 0.02407, -0.98708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 170
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-1.032, -0.17593, -1.58447],
+					"to": [-0.332, 0.52407, -0.88447],
+					"rotationOrigin": [-0.64151, 0.02407, -0.78708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 151.5,
+					"rotationZ": 82.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [0.9108, -0.17593, -1.72674],
+					"to": [1.6108, 0.52407, -1.02674],
+					"rotationOrigin": [1.2608, -0.02593, -1.37674],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 8.5,
+					"rotationZ": 82.5
+				}
+			]
+		},
+		{
+			"name": "CrushedStone12",
+			"from": [11.34151, 0.57593, 1.88708],
+			"to": [11.34151, 0.57593, 1.88708],
+			"rotationOrigin": [11.34151, 0.57593, 1.88708],
+			"rotationX": -180,
+			"rotationY": 8.5,
+			"children": [
+				{
+					"name": "Crushedstone",
+					"from": [-0.66651, -0.50093, 0.68792],
+					"to": [0.68349, 0.84907, 2.03792],
+					"rotationOrigin": [0.00849, 0.07407, 1.36292],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": -7.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [0.93349, -0.40093, 0.68792],
+					"to": [2.08349, 0.74907, 1.83792],
+					"rotationOrigin": [1.50849, 0.07407, 1.26292],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 2.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-2.11651, -0.35093, 0.43792],
+					"to": [-1.06651, 0.69907, 1.48792],
+					"rotationOrigin": [-1.59151, 0.07407, 0.96292],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationX": -10,
+					"rotationY": 17.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [1.08349, -0.35093, -0.66208],
+					"to": [2.13349, 0.69907, 0.38792],
+					"rotationOrigin": [1.60849, 0.07407, -0.13708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationX": -10,
+					"rotationY": -15.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-0.14587, -0.27593, -0.83699],
+					"to": [0.75413, 0.62407, 0.06301],
+					"rotationOrigin": [0.30413, 0.07407, -0.38699],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationX": 13,
+					"rotationY": 2.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-2.04151, -0.22593, -0.93708],
+					"to": [-1.24151, 0.57407, -0.13708],
+					"rotationOrigin": [-1.64151, 0.07407, -0.53708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 15
+				},
+				{
+					"name": "Crushedstone",
+					"from": [0.46039, -0.24982, 0.17157],
+					"to": [0.96039, 0.25018, 0.67157],
+					"rotationOrigin": [0.71039, 0.00018, 0.42157],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 57.5,
+					"rotationZ": 82.5
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-0.90627, -0.22593, -0.96536],
+					"to": [-0.10627, 0.57407, -0.16536],
+					"rotationOrigin": [-0.34151, 0.02407, -0.98708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 170
+				},
+				{
+					"name": "Crushedstone",
+					"from": [-1.032, -0.17593, -1.58447],
+					"to": [-0.332, 0.52407, -0.88447],
+					"rotationOrigin": [-0.64151, 0.02407, -0.78708],
+					"faces": {
+						"north": {"texture": "#material", "uv": [0, 8, 5, 10], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#material", "uv": [10, 13, 14, 15], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#material", "uv": [2, 10, 7, 12], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#material", "uv": [7, 5, 11, 7], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#material", "uv": [5, 7, 10, 11], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#material", "uv": [7, 2, 12, 6], "rotation": 180, "autoUv": false, "snapUv": false}
+					},
+					"rotationY": 151.5,
+					"rotationZ": 82.5
+				}
+			]
+		}
+	],
+	"animations": []
+}

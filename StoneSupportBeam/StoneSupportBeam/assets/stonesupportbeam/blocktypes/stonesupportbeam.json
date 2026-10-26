@@ -1,0 +1,73 @@
+{
+	code: "stonesupportbeam",
+	class: "BlockSupportBeam",
+	entityClass: "Generic",
+	variantgroups: [
+		{ code: "type", states: ["granite", "limestone", "shale", "andesite", "basalt", "peridotite", "sandstone",
+								"conglomerate", "chert", "phyllite", "slate", "whitemarble", "redmarble", "greenmarble",
+								"halite", "chalk", "claystone", "bauxite", "kimberlite", "obsidian",
+								"granite-ashlar", "limestone-ashlar", "shale-ashlar", "andesite-ashlar", "basalt-ashlar",
+								"peridotite-ashlar", "sandstone-ashlar", "conglomerate-ashlar", "chert-ashlar",
+								"phyllite-ashlar", "slate-ashlar",
+								"chalk-ashlar", "claystone-ashlar", "bauxite-ashlar"] }
+	],
+	heldTpUseAnimation: "interactstatic-beams",
+	attributes: {
+		unstableRockStabilization: 4,
+		partialEnds: true,
+		handbook: {
+			groupBy: ["stonesupportbeam-*"],
+			extraSections: [
+				{ title: "stonesupportbeam:supportbeam-handbook-guide-title", text: "stonesupportbeam:supportbeam-handbook-guide-text" }
+			]
+		}
+	},
+	entityBehaviors: [ { name: "SupportBeam" } ],
+	creativeinventory: { "general": ["*"], "stonesupportbeam": ["*"] },
+	shape: { base: "game:block/wood/supportbeam/16" },
+	blockmaterial: "Stone",
+	drawtype: "json",
+	texturesByType: {
+		"*-chalk-ashlar": { wood: { base: "game:block/stone/brick/chalk1" } },
+		"*-claystone-ashlar": { wood: { base: "game:block/stone/brick/claystone1" } },
+		"*-bauxite-ashlar": { wood: { base: "game:block/stone/brick/bauxite1" } },
+		"*-granite-ashlar": { wood: { base: "game:block/stone/brick/granite1" } },
+		"*-limestone-ashlar": { wood: { base: "game:block/stone/brick/limestone1" } },
+		"*-shale-ashlar": { wood: { base: "game:block/stone/brick/shale1" } },
+		"*-andesite-ashlar": { wood: { base: "game:block/stone/brick/andesite1" } },
+		"*-basalt-ashlar": { wood: { base: "game:block/stone/brick/basalt1" } },
+		"*-peridotite-ashlar": { wood: { base: "game:block/stone/brick/peridotite1" } },
+		"*-sandstone-ashlar": { wood: { base: "game:block/stone/brick/sandstone1" } },
+		"*-conglomerate-ashlar": { wood: { base: "game:block/stone/brick/conglomerate1" } },
+		"*-chert-ashlar": { wood: { base: "game:block/stone/brick/chert1" } },
+		"*-phyllite-ashlar": { wood: { base: "game:block/stone/brick/phyllite1" } },
+		"*-slate-ashlar": { wood: { base: "game:block/stone/brick/slate1" } },
+		"*": { wood: { base: "game:block/stone/rock/{type}1" } }
+	},
+	faceCullMode: "NeverCull",
+	sideOpaque: { all: false },
+	emitSideAo: { all: false },
+	sideSolid: { all: false },
+	lightAbsorption: 0,
+	rainPermeable: true,
+	resistance: 3.5,
+	sounds: {
+		walk: "walk/stone",
+		byTool: {
+			"Pickaxe": { hit: "block/rock-hit-pickaxe", break: "block/rock-break-pickaxe" }
+		}
+	},
+	maxStackSize: 32,
+	materialDensity: 2600,
+	tpHandTransform: {
+		translation: { x: -1.13, y: -0.81, z: -1.2 },
+		rotation: { x: -95, y: 29, z: 3 },
+		scale: 0.55
+	},
+	guiTransform: {
+		rotation: { x: -22.6, y: -64, z: 0 },
+		origin: { x: 0.5, y: 0.1, z: 0.5 },
+		scale: 2.24
+	},
+	drops: []
+}

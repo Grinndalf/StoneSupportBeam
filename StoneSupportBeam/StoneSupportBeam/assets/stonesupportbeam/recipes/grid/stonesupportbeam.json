@@ -1,0 +1,40 @@
+{
+	ingredientPattern: "C,R,M",
+	width: 1,
+	height: 3,
+	ingredients: {
+		"C": {
+			type: "item",
+			code: "stonesupportbeam:stonebeam-concretemix-*",
+			name: "type",
+			allowedVariants: [
+				"granite",
+				"limestone",
+				"shale",
+				"andesite",
+				"basalt",
+				"peridotite",
+				"sandstone",
+				"conglomerate",
+				"chert",
+				"phyllite", 
+				"slate",
+				"whitemarble",
+				"redmarble",
+				"greenmarble",
+				"halite",
+				"chalk",
+				"claystone",
+				"bauxite",
+				"kimberlite",
+				"obsidian",
+				"granite-ashlar", "limestone-ashlar", "shale-ashlar", "andesite-ashlar", "basalt-ashlar",
+				"peridotite-ashlar", "sandstone-ashlar", "conglomerate-ashlar", "chert-ashlar",
+				"phyllite-ashlar", "slate-ashlar", "chalk-ashlar", "claystone-ashlar", "bauxite-ashlar"
+			]
+		},
+		"R": { type: "item", code: "stonesupportbeam:rebar-iron" },
+		"M": { type: "item", code: "stonesupportbeam:stonebeam-mold-burned-*", isTool: true, toolDurabilityCost: 1 }
+	},
+	output: { type: "block", code: "stonesupportbeam:stonesupportbeam-{type}", quantity: 4 }
+}

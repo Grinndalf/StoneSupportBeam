@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="StoneSupportBeam/StoneSupportBeam/StoneSupportBeam.csproj" />
+  <Project Path="StoneSupportBeam/ZZCakeBuild/CakeBuild.csproj" />
+</Solution>

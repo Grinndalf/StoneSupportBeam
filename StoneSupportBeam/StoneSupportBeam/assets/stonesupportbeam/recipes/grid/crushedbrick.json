@@ -1,0 +1,30 @@
+{
+	ingredientPattern: "H,S",
+	width: 1,
+	height: 2,
+	ingredients: {
+		"H": { type: "item", tags: ["tool-hammer"], isTool: true },
+		"S": {
+			type: "item",
+			code: "game:stonebrick-*",
+			name: "type",
+			allowedVariants: [
+				"granite",
+				"limestone",
+				"shale",
+				"andesite",
+				"basalt",
+				"peridotite",
+				"sandstone",
+				"conglomerate",
+				"chert",
+				"phyllite",
+				"slate",
+				"chalk",
+				"claystone",
+				"bauxite"
+			]
+		}
+	},
+	output: { type: "item", code: "stonesupportbeam:crushedbrick-{type}", stackSize: 1 }
+}

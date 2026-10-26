@@ -1,0 +1,8 @@
+{
+	code: "cementmix",
+	ingredients: [
+		{ type: "item", code: "game:limewaterportion", litres: 1 },
+		{ type: "block", code: "game:sand-*", name: "type", allowedVariants: ["granite", "limestone", "shale", "andesite", "basalt", "peridotite", "sandstone", "conglomerate", "chert", "phyllite", "slate", "chalk", "claystone", "bauxite",], quantity: 1 }
+	],
+	output: { type: "item", code: "cementmix-{type}portion", litres: 1 }
+} 

@@ -1,0 +1,8 @@
+{
+	"type": "code",
+	"name": "Stone Support Beams",
+	"modid": "stonesupportbeam",
+	"version": "1.2.0",
+	"description": "Adds stone variants of the support beam with a multi-step crafting process",
+	"authors": ["Grinndalf"]
+}

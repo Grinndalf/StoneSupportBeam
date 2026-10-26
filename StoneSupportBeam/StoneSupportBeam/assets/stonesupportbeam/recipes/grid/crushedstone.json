@@ -1,0 +1,36 @@
+{
+	ingredientPattern: "H,S",
+	width: 1,
+	height: 2,
+	ingredients: {
+		"H": { type: "item", tags: ["tool-hammer"], isTool: true },
+		"S": {
+			type: "item",
+			code: "game:stone-*",
+			name: "type",
+			allowedVariants: [
+				"granite",
+				"limestone",
+				"shale",
+				"andesite",
+				"basalt",
+				"peridotite",
+				"sandstone",
+				"conglomerate",
+				"chert",
+				"phyllite",
+				"slate",
+				"whitemarble",
+				"redmarble",
+				"greenmarble",
+				"halite",
+				"chalk",
+				"claystone",
+				"bauxite",
+				"kimberlite",
+				"obsidian"
+			]
+		}
+	},
+	output: { type: "item", code: "stonesupportbeam:crushedstone-{type}", stackSize: 1 }
+}
